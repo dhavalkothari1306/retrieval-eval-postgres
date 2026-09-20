@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "text": "I paid for something but changed my mind shortly afterward. How can I get the money returned?",
+    "correct_doc_id": 4,
+    "type": "paraphrase"
+  },
+  {
+    "id": 2,
+    "text": "What do I need to do to let another person join our shared workspace?",
+    "correct_doc_id": 11,
+    "type": "paraphrase"
+  },
+  {
+    "id": 3,
+    "text": "My sign-in secret is gone from my memory. How can I regain access?",
+    "correct_doc_id": 10,
+    "type": "paraphrase"
+  },
+  {
+    "id": 4,
+    "text": "The screen stays blank when I open the control panel. What should I try?",
+    "correct_doc_id": 13,
+    "type": "paraphrase"
+  },
+  {
+    "id": 5,
+    "text": "How long should I expect my package to take once the seller has sent it?",
+    "correct_doc_id": 18,
+    "type": "paraphrase"
+  },
+  {
+    "id": 6,
+    "text": "Can this service pass alerts into our team's chat application?",
+    "correct_doc_id": 23,
+    "type": "paraphrase"
+  },
+  {
+    "id": 7,
+    "text": "What protection keeps outsiders from reading information while it travels between my computer and the service?",
+    "correct_doc_id": 27,
+    "type": "paraphrase"
+  },
+  {
+    "id": 8,
+    "text": "Can I obtain a copy of everything belonging to my workspace?",
+    "correct_doc_id": 36,
+    "type": "paraphrase"
+  },
+  {
+    "id": 9,
+    "text": "What happens if I want to permanently get rid of the entire shared environment?",
+    "correct_doc_id": 37,
+    "type": "paraphrase"
+  },
+  {
+    "id": 10,
+    "text": "Can I connect the service to Google's online file storage so that documents can be brought into projects?",
+    "correct_doc_id": 24,
+    "type": "paraphrase"
+  },
+  {
+    "id": 11,
+    "text": "What is the price of the Professional plan?",
+    "correct_doc_id": 2,
+    "type": "keyword"
+  },
+  {
+    "id": 12,
+    "text": "How long is the refund window for a purchase?",
+    "correct_doc_id": 4,
+    "type": "keyword"
+  },
+  {
+    "id": 13,
+    "text": "Where can I change the email in Account Settings?",
+    "correct_doc_id": 8,
+    "type": "keyword"
+  },
+  {
+    "id": 14,
+    "text": "What should I do when the API returns a 429 response?",
+    "correct_doc_id": 15,
+    "type": "keyword"
+  },
+  {
+    "id": 15,
+    "text": "How many business days does Standard shipping take after dispatch?",
+    "correct_doc_id": 18,
+    "type": "keyword"
+  },
+  {
+    "id": 16,
+    "text": "How do I configure the Slack integration?",
+    "correct_doc_id": 23,
+    "type": "keyword"
+  },
+  {
+    "id": 17,
+    "text": "Does the platform encrypt data at rest?",
+    "correct_doc_id": 27,
+    "type": "keyword"
+  },
+  {
+    "id": 18,
+    "text": "Where can administrators review security logs?",
+    "correct_doc_id": 29,
+    "type": "keyword"
+  },
+  {
+    "id": 19,
+    "text": "How can I download invoices from the Billing section?",
+    "correct_doc_id": 33,
+    "type": "keyword"
+  },
+  {
+    "id": 20,
+    "text": "Does the service support SAML for single sign-on?",
+    "correct_doc_id": 38,
+    "type": "keyword"
+  }
+]

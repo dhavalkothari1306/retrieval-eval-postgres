@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "text": "The Starter plan costs $9 per month and supports up to 3 team members. It includes basic reporting and email support."
+  },
+  {
+    "id": 2,
+    "text": "The Professional plan costs $29 per user per month. It adds advanced analytics, priority support, and unlimited projects."
+  },
+  {
+    "id": 3,
+    "text": "Annual billing provides a 20% discount compared with paying monthly. The discount is applied automatically when the yearly option is selected."
+  },
+  {
+    "id": 4,
+    "text": "Customers can request a refund within 14 days of the original purchase. Refund requests must be submitted through the billing page."
+  },
+  {
+    "id": 5,
+    "text": "Subscription refunds are returned to the original payment method. Banks and card providers may require 5 to 10 business days to display the credit."
+  },
+  {
+    "id": 6,
+    "text": "Unused portions of a prepaid annual subscription are normally not refundable after the 14-day refund window. Exceptions may be reviewed by the billing team."
+  },
+  {
+    "id": 7,
+    "text": "A subscription can be canceled from Settings under Billing. Cancellation stops future renewals but does not immediately remove access to the paid features."
+  },
+  {
+    "id": 8,
+    "text": "Users can change the email associated with their profile from Account Settings. A verification message is sent to the new email address."
+  },
+  {
+    "id": 9,
+    "text": "Two-factor authentication can be enabled under Security Settings. The system supports authenticator applications and backup recovery codes."
+  },
+  {
+    "id": 10,
+    "text": "If you forget your password, select Forgot Password on the sign-in page. A reset link will be sent to the email registered to the account."
+  },
+  {
+    "id": 11,
+    "text": "Administrators can invite teammates from the Members section. Each invitation remains valid for 72 hours before it expires."
+  },
+  {
+    "id": 12,
+    "text": "A workspace owner can remove a member from Workspace Settings. Removing someone revokes their workspace access but does not delete their personal account."
+  },
+  {
+    "id": 13,
+    "text": "If the dashboard does not load, first clear the browser cache and reload the page. Using a supported browser version can also resolve display problems."
+  },
+  {
+    "id": 14,
+    "text": "API requests that return a 401 error usually indicate invalid or expired authentication credentials. Generate a new API token and retry the request."
+  },
+  {
+    "id": 15,
+    "text": "A 429 response means the API rate limit has been exceeded. Wait before sending additional requests or reduce the request frequency."
+  },
+  {
+    "id": 16,
+    "text": "If file uploads fail, check that the file is below the 25 MB size limit and uses a supported format. Large files should be compressed before uploading."
+  },
+  {
+    "id": 17,
+    "text": "The service sends an email confirmation after an order is placed. If the message is missing, check the spam or junk folder before contacting support."
+  },
+  {
+    "id": 18,
+    "text": "Standard shipping usually takes 3 to 5 business days after an order has been dispatched. Delivery estimates may vary during holidays."
+  },
+  {
+    "id": 19,
+    "text": "Express delivery typically arrives within 1 to 2 business days after dispatch. This option is available only for eligible destinations."
+  },
+  {
+    "id": 20,
+    "text": "Customers can track an order using the tracking number included in the shipment notification. The carrier's tracking page shows the latest delivery status."
+  },
+  {
+    "id": 21,
+    "text": "Orders can be changed or canceled before they enter the fulfillment process. Contact support immediately if an order needs modification."
+  },
+  {
+    "id": 22,
+    "text": "International shipments may be subject to customs duties and import taxes. These charges are generally collected from the recipient by the destination country's authorities."
+  },
+  {
+    "id": 23,
+    "text": "The platform integrates with Slack to send workspace notifications into selected channels. Administrators can configure the connection from the Integrations page."
+  },
+  {
+    "id": 24,
+    "text": "Google Drive integration allows users to import files directly into projects. Access requires granting the application permission to read selected Drive content."
+  },
+  {
+    "id": 25,
+    "text": "The service provides a REST API for custom integrations. API documentation includes authentication details, endpoints, request formats, and response examples."
+  },
+  {
+    "id": 26,
+    "text": "Webhooks can notify external systems when supported events occur. A webhook endpoint can be configured from the developer settings."
+  },
+  {
+    "id": 27,
+    "text": "The platform encrypts data in transit using TLS and encrypts stored customer data at rest. Encryption is applied to both application traffic and persistent storage."
+  },
+  {
+    "id": 28,
+    "text": "Customer passwords are stored using salted cryptographic hashing rather than plaintext storage. Support staff cannot view a user's original password."
+  },
+  {
+    "id": 29,
+    "text": "Security logs record important account events such as sign-ins, password changes, and authentication failures. Workspace administrators can review these logs."
+  },
+  {
+    "id": 30,
+    "text": "Sessions automatically expire after a period of inactivity. Users may also sign out of all active sessions from their security settings."
+  },
+  {
+    "id": 31,
+    "text": "The company performs regular automated vulnerability scans and periodic security assessments. Critical findings are prioritized for remediation."
+  },
+  {
+    "id": 32,
+    "text": "The Starter plan allows a maximum of 3 team members. Additional members require upgrading to a plan with a larger seat allowance."
+  },
+  {
+    "id": 33,
+    "text": "Invoices can be downloaded from the Billing section. Each invoice contains the billing period, charges, taxes, and payment information."
+  },
+  {
+    "id": 34,
+    "text": "A payment method can be updated from Billing Settings. The new card becomes the default payment method for future subscription charges."
+  },
+  {
+    "id": 35,
+    "text": "When an invoice payment fails, the system retries the charge automatically. The account owner receives an email if payment remains unsuccessful."
+  },
+  {
+    "id": 36,
+    "text": "Users can export their workspace data from Privacy Settings. Available exports are provided as downloadable files after processing is complete."
+  },
+  {
+    "id": 37,
+    "text": "Deleting a workspace permanently removes its projects, members, and stored data after the deletion process is completed. Workspace deletion cannot be reversed."
+  },
+  {
+    "id": 38,
+    "text": "The platform supports single sign-on through SAML for eligible enterprise accounts. Configuration requires identity-provider metadata from the customer's administrator."
+  },
+  {
+    "id": 39,
+    "text": "If notifications are not appearing, verify that notifications are enabled in account settings and that the browser has permission to display them."
+  },
+  {
+    "id": 40,
+    "text": "Support requests can be submitted through the Help Center. Professional-plan customers receive priority handling for eligible support cases."
+  }
+]
