@@ -1,0 +1,262 @@
+[
+  {
+    "id": 21,
+    "type": "keyword",
+    "text": "How much does the Starter plan cost per month?",
+    "correct": 1,
+    "top3": [
+      1,
+      2,
+      32
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 22,
+    "type": "paraphrase",
+    "text": "If I commit for twelve months upfront, do I end up paying less?",
+    "correct": 3,
+    "top3": [
+      1,
+      3,
+      6
+    ],
+    "hit": true,
+    "top1": false
+  },
+  {
+    "id": 23,
+    "type": "keyword",
+    "text": "How many business days until the refund is credited to my payment method?",
+    "correct": 5,
+    "top3": [
+      4,
+      5,
+      6
+    ],
+    "hit": true,
+    "top1": false
+  },
+  {
+    "id": 24,
+    "type": "paraphrase",
+    "text": "I don't want to be charged again after this month. Where do I turn that off?",
+    "correct": 7,
+    "top3": [
+      7,
+      34,
+      35
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 25,
+    "type": "keyword",
+    "text": "How do I enable two-factor authentication?",
+    "correct": 9,
+    "top3": [
+      9,
+      38,
+      14
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 26,
+    "type": "paraphrase",
+    "text": "I need to take a former colleague off our team's shared area without wiping their login.",
+    "correct": 12,
+    "top3": [
+      12,
+      11,
+      37
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 27,
+    "type": "keyword",
+    "text": "What does a 401 error from the API mean?",
+    "correct": 14,
+    "top3": [
+      14,
+      15,
+      25
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 28,
+    "type": "keyword",
+    "text": "If file uploads fail, what is the size limit?",
+    "correct": 16,
+    "top3": [
+      16,
+      35,
+      15
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 29,
+    "type": "keyword",
+    "text": "If the order confirmation email is missing, where should I check?",
+    "correct": 17,
+    "top3": [
+      17,
+      10,
+      21
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 30,
+    "type": "paraphrase",
+    "text": "How soon will a rush parcel reach me after it leaves the warehouse?",
+    "correct": 19,
+    "top3": [
+      18,
+      19,
+      21
+    ],
+    "hit": true,
+    "top1": false
+  },
+  {
+    "id": 31,
+    "type": "keyword",
+    "text": "How do I use the tracking number to track an order?",
+    "correct": 20,
+    "top3": [
+      20,
+      17,
+      21
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 32,
+    "type": "paraphrase",
+    "text": "I placed an order by mistake and want to undo it before it gets packed. What can I do?",
+    "correct": 21,
+    "top3": [
+      21,
+      17,
+      10
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 33,
+    "type": "paraphrase",
+    "text": "Will I owe extra fees when my package crosses a border?",
+    "correct": 22,
+    "top3": [
+      22,
+      6,
+      35
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 34,
+    "type": "keyword",
+    "text": "Does the service provide a REST API with documentation?",
+    "correct": 25,
+    "top3": [
+      25,
+      40,
+      26
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 35,
+    "type": "paraphrase",
+    "text": "Can the platform automatically ping my own servers when something happens inside it?",
+    "correct": 26,
+    "top3": [
+      26,
+      23,
+      11
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 36,
+    "type": "paraphrase",
+    "text": "Can anyone at your company read the secret phrase I chose for logging in?",
+    "correct": 28,
+    "top3": [
+      38,
+      28,
+      29
+    ],
+    "hit": true,
+    "top1": false
+  },
+  {
+    "id": 37,
+    "type": "paraphrase",
+    "text": "How do I log myself out everywhere at the same time?",
+    "correct": 30,
+    "top3": [
+      30,
+      38,
+      9
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 38,
+    "type": "keyword",
+    "text": "How do I update my payment method in Billing Settings?",
+    "correct": 34,
+    "top3": [
+      34,
+      33,
+      35
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 39,
+    "type": "keyword",
+    "text": "What happens when an invoice payment fails?",
+    "correct": 35,
+    "top3": [
+      35,
+      33,
+      21
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 40,
+    "type": "paraphrase",
+    "text": "Alerts never show up on my screen. What should I verify?",
+    "correct": 39,
+    "top3": [
+      39,
+      17,
+      26
+    ],
+    "hit": true,
+    "top1": true
+  }
+]

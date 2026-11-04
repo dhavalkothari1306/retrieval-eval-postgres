@@ -9,7 +9,8 @@
       2,
       32
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 22,
@@ -21,7 +22,8 @@
       3,
       6
     ],
-    "hit": true
+    "hit": true,
+    "top1": false
   },
   {
     "id": 23,
@@ -33,7 +35,8 @@
       5,
       6
     ],
-    "hit": true
+    "hit": true,
+    "top1": false
   },
   {
     "id": 24,
@@ -45,7 +48,8 @@
       34,
       35
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 25,
@@ -57,7 +61,8 @@
       38,
       14
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 26,
@@ -69,7 +74,8 @@
       11,
       37
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 27,
@@ -81,7 +87,8 @@
       15,
       25
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 28,
@@ -93,7 +100,8 @@
       35,
       15
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 29,
@@ -105,7 +113,8 @@
       10,
       21
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 30,
@@ -117,7 +126,8 @@
       19,
       21
     ],
-    "hit": true
+    "hit": true,
+    "top1": false
   },
   {
     "id": 31,
@@ -129,7 +139,8 @@
       17,
       21
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 32,
@@ -141,7 +152,8 @@
       17,
       10
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 33,
@@ -153,7 +165,8 @@
       6,
       35
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 34,
@@ -165,7 +178,8 @@
       40,
       26
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 35,
@@ -177,7 +191,8 @@
       23,
       11
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 36,
@@ -189,7 +204,8 @@
       28,
       29
     ],
-    "hit": true
+    "hit": true,
+    "top1": false
   },
   {
     "id": 37,
@@ -201,7 +217,8 @@
       38,
       9
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 38,
@@ -213,7 +230,8 @@
       33,
       35
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 39,
@@ -225,7 +243,8 @@
       33,
       21
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 40,
@@ -237,6 +256,7 @@
       17,
       26
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   }
 ]

@@ -9,7 +9,8 @@
       23,
       36
     ],
-    "hit": false
+    "hit": false,
+    "top1": false
   },
   {
     "id": 42,
@@ -21,7 +22,8 @@
       29,
       37
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 43,
@@ -33,7 +35,8 @@
       36,
       16
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 44,
@@ -45,7 +48,8 @@
       29,
       37
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 45,
@@ -57,7 +61,8 @@
       12,
       29
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 46,
@@ -69,7 +74,8 @@
       6,
       34
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 47,
@@ -81,7 +87,8 @@
       7,
       17
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 48,
@@ -93,7 +100,8 @@
       15,
       25
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 49,
@@ -105,7 +113,8 @@
       18,
       21
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 50,
@@ -117,7 +126,8 @@
       6,
       5
     ],
-    "hit": true
+    "hit": true,
+    "top1": false
   },
   {
     "id": 51,
@@ -129,7 +139,8 @@
       34,
       21
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   },
   {
     "id": 52,
@@ -141,6 +152,7 @@
       5,
       3
     ],
-    "hit": true
+    "hit": true,
+    "top1": true
   }
 ]

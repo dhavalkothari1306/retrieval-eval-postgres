@@ -19,3 +19,5 @@ Predictions:
 
 Prediction (written before run): B fixes Q2/Q41 with probability under 50%. Reason: doc 11 shares no content words with either query, and a one-word prefix is a weak signal inside a long string. Q2 and Q41 count as one failure because their top-3 results are identical.
 Success criterion: Q2 and Q41 both hit@3; no query that was a hit becomes a miss on any set; held-out top-1 not below 16/20.
+
+   Diagnostic (post-hoc): doc 11 rank for Q2 = 4/40 (baseline and meta), Q41 = 6/40 (baseline and meta). Variant B did not change doc 11's rank on either query. Doc 11 is near the top but below three other docs. Cause not tested.
