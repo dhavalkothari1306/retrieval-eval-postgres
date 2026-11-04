@@ -1,0 +1,22 @@
+[
+  {"id": 21, "text": "How much does the Starter plan cost per month?", "correct_doc_id": 1, "type": "keyword"},
+  {"id": 22, "text": "If I commit for twelve months upfront, do I end up paying less?", "correct_doc_id": 3, "type": "paraphrase"},
+  {"id": 23, "text": "How many business days until the refund is credited to my payment method?", "correct_doc_id": 5, "type": "keyword"},
+  {"id": 24, "text": "I don't want to be charged again after this month. Where do I turn that off?", "correct_doc_id": 7, "type": "paraphrase"},
+  {"id": 25, "text": "How do I enable two-factor authentication?", "correct_doc_id": 9, "type": "keyword"},
+  {"id": 26, "text": "I need to take a former colleague off our team's shared area without wiping their login.", "correct_doc_id": 12, "type": "paraphrase"},
+  {"id": 27, "text": "What does a 401 error from the API mean?", "correct_doc_id": 14, "type": "keyword"},
+  {"id": 28, "text": "If file uploads fail, what is the size limit?", "correct_doc_id": 16, "type": "keyword"},
+  {"id": 29, "text": "If the order confirmation email is missing, where should I check?", "correct_doc_id": 17, "type": "keyword"},
+  {"id": 30, "text": "How soon will a rush parcel reach me after it leaves the warehouse?", "correct_doc_id": 19, "type": "paraphrase"},
+  {"id": 31, "text": "How do I use the tracking number to track an order?", "correct_doc_id": 20, "type": "keyword"},
+  {"id": 32, "text": "I placed an order by mistake and want to undo it before it gets packed. What can I do?", "correct_doc_id": 21, "type": "paraphrase"},
+  {"id": 33, "text": "Will I owe extra fees when my package crosses a border?", "correct_doc_id": 22, "type": "paraphrase"},
+  {"id": 34, "text": "Does the service provide a REST API with documentation?", "correct_doc_id": 25, "type": "keyword"},
+  {"id": 35, "text": "Can the platform automatically ping my own servers when something happens inside it?", "correct_doc_id": 26, "type": "paraphrase"},
+  {"id": 36, "text": "Can anyone at your company read the secret phrase I chose for logging in?", "correct_doc_id": 28, "type": "paraphrase"},
+  {"id": 37, "text": "How do I log myself out everywhere at the same time?", "correct_doc_id": 30, "type": "paraphrase"},
+  {"id": 38, "text": "How do I update my payment method in Billing Settings?", "correct_doc_id": 34, "type": "keyword"},
+  {"id": 39, "text": "What happens when an invoice payment fails?", "correct_doc_id": 35, "type": "keyword"},
+  {"id": 40, "text": "Alerts never show up on my screen. What should I verify?", "correct_doc_id": 39, "type": "paraphrase"}
+]
