@@ -1,0 +1,158 @@
+[
+  {
+    "id": 41,
+    "type": "paraphrase",
+    "text": "How do I add a new person to my workspace?",
+    "correct": 11,
+    "top3": [
+      12,
+      23,
+      29
+    ],
+    "hit": false,
+    "top1": false
+  },
+  {
+    "id": 42,
+    "type": "paraphrase",
+    "text": "A teammate left the company and should lose access to our workspace. What do I do?",
+    "correct": 12,
+    "top3": [
+      12,
+      29,
+      37
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 43,
+    "type": "paraphrase",
+    "text": "How do I bring files from Google Drive into a project?",
+    "correct": 24,
+    "top3": [
+      24,
+      36,
+      33
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 44,
+    "type": "paraphrase",
+    "text": "How do I get a downloadable copy of my workspace data?",
+    "correct": 36,
+    "top3": [
+      36,
+      33,
+      37
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 45,
+    "type": "paraphrase",
+    "text": "We're finished with this workspace and want it gone for good. What happens?",
+    "correct": 37,
+    "top3": [
+      37,
+      12,
+      29
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 46,
+    "type": "paraphrase",
+    "text": "How do I stop my subscription from renewing?",
+    "correct": 7,
+    "top3": [
+      7,
+      34,
+      6
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 47,
+    "type": "paraphrase",
+    "text": "I just placed an order and want to cancel it. How?",
+    "correct": 21,
+    "top3": [
+      21,
+      7,
+      4
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 48,
+    "type": "paraphrase",
+    "text": "My API token stopped working and requests are being rejected. What now?",
+    "correct": 14,
+    "top3": [
+      14,
+      15,
+      17
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 49,
+    "type": "keyword",
+    "text": "How long does Express delivery take after dispatch?",
+    "correct": 19,
+    "top3": [
+      19,
+      18,
+      20
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 50,
+    "type": "paraphrase",
+    "text": "Can I get a refund on my annual plan after the first two weeks?",
+    "correct": 6,
+    "top3": [
+      4,
+      6,
+      5
+    ],
+    "hit": true,
+    "top1": false
+  },
+  {
+    "id": 51,
+    "type": "paraphrase",
+    "text": "What happens if my card is declined when my invoice is charged?",
+    "correct": 35,
+    "top3": [
+      35,
+      34,
+      21
+    ],
+    "hit": true,
+    "top1": true
+  },
+  {
+    "id": 52,
+    "type": "paraphrase",
+    "text": "I got a new credit card. How do I use it for future charges?",
+    "correct": 34,
+    "top3": [
+      34,
+      5,
+      3
+    ],
+    "hit": true,
+    "top1": true
+  }
+]
