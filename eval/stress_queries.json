@@ -1,0 +1,14 @@
+[
+  {"id": 41, "text": "How do I add a new person to my workspace?", "correct_doc_id": 11, "type": "paraphrase"},
+  {"id": 42, "text": "A teammate left the company and should lose access to our workspace. What do I do?", "correct_doc_id": 12, "type": "paraphrase"},
+  {"id": 43, "text": "How do I bring files from Google Drive into a project?", "correct_doc_id": 24, "type": "paraphrase"},
+  {"id": 44, "text": "How do I get a downloadable copy of my workspace data?", "correct_doc_id": 36, "type": "paraphrase"},
+  {"id": 45, "text": "We're finished with this workspace and want it gone for good. What happens?", "correct_doc_id": 37, "type": "paraphrase"},
+  {"id": 46, "text": "How do I stop my subscription from renewing?", "correct_doc_id": 7, "type": "paraphrase"},
+  {"id": 47, "text": "I just placed an order and want to cancel it. How?", "correct_doc_id": 21, "type": "paraphrase"},
+  {"id": 48, "text": "My API token stopped working and requests are being rejected. What now?", "correct_doc_id": 14, "type": "paraphrase"},
+  {"id": 49, "text": "How long does Express delivery take after dispatch?", "correct_doc_id": 19, "type": "keyword"},
+  {"id": 50, "text": "Can I get a refund on my annual plan after the first two weeks?", "correct_doc_id": 6, "type": "paraphrase"},
+  {"id": 51, "text": "What happens if my card is declined when my invoice is charged?", "correct_doc_id": 35, "type": "paraphrase"},
+  {"id": 52, "text": "I got a new credit card. How do I use it for future charges?", "correct_doc_id": 34, "type": "paraphrase"}
+]
